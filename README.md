@@ -13,7 +13,7 @@
   ##
   
   <div align="center">
-  <a href="https://www.linkedin.com/in/osmar-domingos-550132222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/domingos-osmar-a6710b254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <img height="10%" width="10%" class="animated-gif" src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true">
 </div>
 
