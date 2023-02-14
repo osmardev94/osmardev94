@@ -6,13 +6,16 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmardev94&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-   <img align="center" alt="Osmar-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
+  
+  <h2>Skills</h2>
+   <img align="center" alt="Osmar-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
  <img align="center" alt="Osmar-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Osmar-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Osmar-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
   ##
   
+  <h2>Contatos</h2>
   <div align="center">
     <a href="mailto:osmar.dev94@gmail.com"><img
         src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
