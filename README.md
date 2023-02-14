@@ -14,6 +14,9 @@
   ##
   
   <div align="center">
+    <a href="mailto:osmar.dev94@gmail.com"><img
+        src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+        target="_blank"></a>
   <a href="https://www.linkedin.com/in/domingos-oliveira-a6710b254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <img height="10%" width="10%" class="animated-gif" src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true">
 </div>
