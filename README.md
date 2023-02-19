@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil do github, aqui coloco os projetos que fiz em minha jornada como desenvolvedor. ✌
+### Bem-vindo ao meu repositório do github, aqui coloco os projetos que fiz em minha jornada como desenvolvedor. ✌
 
 <div align="center">
   <a href="https://github.com/osmardev94">
