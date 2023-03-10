@@ -1,6 +1,7 @@
 ### Bem-vindo ao meu repositório do github, aqui coloco os projetos que fiz em minha jornada como desenvolvedor. ✌
 
 <div align="center">
+  ## 📊 &nbsp;Stats
   <a href="https://github.com/osmardev94">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=osmardev94&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmardev94&layout=compact&langs_count=7&theme=github_dark"/>
@@ -35,7 +36,7 @@
     <img height="5%" width="5%" class="animated-gif" src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true">
 </div>
 
-
+***
 
 <div align="center">
    <img height="380em" src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif"/>
