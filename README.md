@@ -6,7 +6,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=osmardev94&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmardev94&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
   
   <h2>Skills</h2>
    <img align="center" alt="Osmar-Java" height="30" width="40"          src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
@@ -39,7 +39,7 @@
 ***
 
 <div align="center">
-   <img height="380em" src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif"/>
+   <img height="200em" src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif"/>
 </div>
 
 
